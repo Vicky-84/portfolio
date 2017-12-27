@@ -1,0 +1,59 @@
+body{
+     
+      background-color: #D8D8D8;
+    }
+
+    .myFont {
+      
+      text-align: center;
+      padding-top: 2%;
+      font-size: 50px;
+    }
+
+
+    .padding-0{
+        
+        padding-right:0;
+        padding-left:0;
+    }
+
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+
+    .col-xs-12{
+    
+        font-size: 20px;
+    } 
+    
+    .col-md-4{
+    
+        font-size: 35px;
+    }
+
+
+    
+    .blue {
+       background-color: #0081EA;
+        height:300px
+        
+       
+
+    }
+    .red {
+      background-color: #EA000B; 
+        height:150px;
+        
+        
+    }
+    .green {
+      background-color: #068400;
+        height:150px;
+    }
+    .purple {
+      background-color: #3F3FBF;
+        height:150px;
+    }

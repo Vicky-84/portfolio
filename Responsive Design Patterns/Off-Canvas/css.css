@@ -1,0 +1,57 @@
+body{
+     
+      background-color: #fff;
+    }
+
+    .myFont {
+      
+      text-align: center;
+      padding-top: 2%;
+      font-size: 40px;
+    }
+
+
+    .padding-0{
+        
+        padding-right:0;
+        padding-left:0;
+    }
+
+
+    .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+
+    .footer {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        /* Set the fixed height of the footer here */
+        height: 60px;
+        background-color: #f5f5f5;
+    }
+
+    
+    .blue {
+       background-color: #0081EA;
+        height:300px
+        
+       
+
+    }
+    .red {
+      background-color: #EA000B; 
+        height:300px;
+        
+        
+    }
+    .green {
+      background-color: #068400;
+        height:300px;
+    }
+    .purple {
+      background-color: #3F3FBF;
+        height:300px;
+    }
